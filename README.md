@@ -26,6 +26,7 @@ At the moment I am looking for a job!
 ### 🛠️ Languages and Tools :
 <p align="left">
 <img src="https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/-Axios-090909?style=for-the-badge&logo=axios&logoColor=4EAA25">
 <img src="https://img.shields.io/badge/React_Router-090909?style=for-the-badge&logo=react-router&logoColor=white">
